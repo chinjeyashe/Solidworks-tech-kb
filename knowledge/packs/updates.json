@@ -1,0 +1,7 @@
+{
+  "pack_id": "SW_TechKnowledge",
+  "version": "2026.13",
+  "url": "https://github.com/chinjeyashe/Solidworks-tech-kb/releases/download/v2026.13/SW_TechKnowledge_2026.13.pkg",
+  "sha256": "34640f28526f167d799dd224e4846c4d0b08604e51a3ef37559935067c5b0c20",
+  "notes": "新增8条（官方+社区混合）：爆炸视图/干涉检查/方程式/高分屏DPI/文件只读/曲面缝合/设置迁移/无法退出；共68条。"
+}
