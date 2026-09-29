@@ -1,7 +1,7 @@
 {
   "pack_id": "SW_TechKnowledge",
-  "version": "2026.14",
-  "url": "https://github.com/chinjeyashe/Solidworks-tech-kb/releases/download/v2026.14/SW_TechKnowledge_2026.14.pkg",
-  "sha256": "f9f0d192c1b543bd947bc6c099de69019eff9487488af4fbe5a8bee73bcba44d",
-  "notes": "新增8条（官方+社区混合）：缩略图不显示/DXF导入/剖面视图/焊件轮廓/渲染外观/宏被阻止/远程桌面图形/默认模板无效；共76条。"
+  "version": "2026.15",
+  "url": "https://github.com/chinjeyashe/Solidworks-tech-kb/releases/download/v2026.15/SW_TechKnowledge_2026.15.pkg",
+  "sha256": "70d8eb111640ff81d821d4d75869a3960d27b462b1d2bdffa06598034768180a",
+  "notes": "新增「联系工程师」入口：无答案页一键复制问题信息+扫码添加企业微信；联系方式随知识包远程更新；条目数不变（76 条）。"
 }
