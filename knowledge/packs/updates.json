@@ -1,7 +1,7 @@
 {
   "pack_id": "SW_TechKnowledge",
-  "version": "2026.16",
-  "url": "https://github.com/chinjeyashe/Solidworks-tech-kb/releases/download/v2026.16/SW_TechKnowledge_2026.16.pkg",
-  "sha256": "8941d0294d760ebd2746e26f929700d100d11159c4b9319b8350254a23f28620",
-  "notes": "工单在线提交开通：填写工单后可直接提交到工程师企业微信（需插件 1.1.4+），提交失败自动降级为工单文件；条目数不变（76 条）。"
+  "version": "2026.17",
+  "url": "https://github.com/chinjeyashe/Solidworks-tech-kb/releases/download/v2026.17/SW_TechKnowledge_2026.17.pkg",
+  "sha256": "0329cfaf5e1526ba3fc52a1cf4e0852002ec7d7cee1d0aeccf0277d36cd7b061",
+  "notes": "安全与隐私改进（需插件 2.0.6+）：环境信息默认脱敏、日志默认不附带、发送前完整预览+5秒倒计时确认、新增本机网络活动记录；同时轮换企业微信接收地址。条目数不变（76 条）。"
 }
