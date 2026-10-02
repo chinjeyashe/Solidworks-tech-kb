@@ -2,6 +2,6 @@
   "pack_id": "SW_TechKnowledge",
   "version": "2026.18",
   "url": "https://github.com/chinjeyashe/Solidworks-tech-kb/releases/download/v2026.18/Huida-Knowledge-v2026.18.pkg",
-  "sha256": "15cbba066d9bbdf8f18316ef4458703364a831b7043e3e2427b10897a6c6ff38",
+  "sha256": "0baaa8402ef9bc73d71c6ed9a9009a10ac45adce4ec655b8cc204675dc4aa050",
   "notes": "v2026.18：新增 10 条，全部来自官方/已验证渠道（SOLIDWORKS 2026 官方帮助与官方 What's New），补齐 PDM、3DEXPERIENCE 平台、2026 新版特性的空白：AI 自动生成工程图(SP4)、几何阵列自动启用导致的性能回退(SP2)、LDR 大设计审阅保存、平台部分加载与离线模式、BOM 列绑定 PLM 属性(SP1)、PDM 2026 本地 vault 视图同步与工作流归档、配置拆分到独立文件、Content Explorer(SP2)、多实体选择体、草图关系组。共 86 条。"
 }
