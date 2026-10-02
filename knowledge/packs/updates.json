@@ -1,7 +1,7 @@
 {
   "pack_id": "SW_TechKnowledge",
-  "version": "2026.19",
-  "url": "https://github.com/chinjeyashe/Solidworks-tech-kb/releases/download/v2026.19/Huida-Knowledge-v2026.19.pkg",
-  "sha256": "123e00ac828ad0c6664b443a708df24bc75297583131fa7db4779542291ef929",
-  "notes": "v2026.19：修复打包器缺陷——v2026.18 因一个种子文件写多条只装入第一条，实际只带出 77 条；本包补齐全部 86 条（000093~000101 为补装）。另：问题总览条目后新增来源版本与日期标签（需插件 2.2.27+）。"
+  "version": "2026.20",
+  "url": "https://github.com/chinjeyashe/Solidworks-tech-kb/releases/download/v2026.20/Huida-Knowledge-v2026.20.pkg",
+  "sha256": "facc777200f714c0c9f3813b27db9f3fe6af42b846ee530a36b0ae58fa0b5614",
+  "notes": "v2026.20：新增 5 条社区实战经验（真实论坛/支持库来源）：包覆(Wrap)失败、Toolbox 尺寸不对/被还原、设计库空白、双击打开错误版本、自定义属性不显示。共 91 条。"
 }
