@@ -1,7 +1,7 @@
 {
   "pack_id": "SW_TechKnowledge",
-  "version": "2026.20",
-  "url": "https://github.com/chinjeyashe/Solidworks-tech-kb/releases/download/v2026.20/Huida-Knowledge-v2026.20.pkg",
-  "sha256": "facc777200f714c0c9f3813b27db9f3fe6af42b846ee530a36b0ae58fa0b5614",
-  "notes": "v2026.20：新增 5 条社区实战经验（真实论坛/支持库来源）：包覆(Wrap)失败、Toolbox 尺寸不对/被还原、设计库空白、双击打开错误版本、自定义属性不显示。共 91 条。"
+  "version": "2026.21",
+  "url": "https://github.com/chinjeyashe/Solidworks-tech-kb/releases/download/v2026.21/Huida-Knowledge-v2026.21.pkg",
+  "sha256": "2ecf79cbd5ad3eeca7f69e3133dc50f0bd5f1cbb83417cfb7f21562313e3abab",
+  "notes": "v2026.21：新增 9 条达索官方 PEP Talks 研讨会实战经验（首次带真实配图，可被截图搜故障命中）：打包对话框位置异常找回、打包无响应与区域/语言包、Inspection 独立版闪退、Inspection 未提取项过滤限制、打开卡顿(网络版 SNL / 单机版中文计算机名)、Flow ECM/HVAC 许可、网络版模块点数分配、Visualize/CAM 许可排查。共 100 条。"
 }
