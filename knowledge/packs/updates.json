@@ -1,7 +1,7 @@
 {
   "pack_id": "SW_TechKnowledge",
-  "version": "2026.21",
-  "url": "https://github.com/chinjeyashe/Solidworks-tech-kb/releases/download/v2026.21/Huida-Knowledge-v2026.21.pkg",
-  "sha256": "2ecf79cbd5ad3eeca7f69e3133dc50f0bd5f1cbb83417cfb7f21562313e3abab",
-  "notes": "v2026.21：新增 9 条达索官方 PEP Talks 研讨会实战经验（首次带真实配图，可被截图搜故障命中）：打包对话框位置异常找回、打包无响应与区域/语言包、Inspection 独立版闪退、Inspection 未提取项过滤限制、打开卡顿(网络版 SNL / 单机版中文计算机名)、Flow ECM/HVAC 许可、网络版模块点数分配、Visualize/CAM 许可排查。共 100 条。"
+  "version": "2026.22",
+  "url": "https://github.com/chinjeyashe/Solidworks-tech-kb/releases/download/v2026.22/Huida-Knowledge-v2026.22.pkg",
+  "sha256": "e8fe373f10d65afd7ac940ba5b34788449890ae6271233a1a3e8a3734c09022c",
+  "notes": "v2026.22：知识包数字签名（导入前验签，防篡改/防更新链路劫持）+ 工单提交切换至安全中继服务（企微机器人 key 不再随包分发）。知识内容与 v2026.21 一致（共 100 条）。"
 }
