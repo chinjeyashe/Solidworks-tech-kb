@@ -3,5 +3,5 @@
   "version": "2026.23",
   "url": "https://huida-kb-1503473453.cos.ap-chengdu.myqcloud.com/Huida-Knowledge-v2026.23.pkg",
   "sha256": "2c2401cca8b7bf6fec1415cc0616b09624ad4e01c0ab713cce631e58388f8afd",
-  "notes": ""
+  "notes": "新增 6 条，全部取自达索官方社区 3DSwym SOLIDWORKS Design 板块的真实问答（有社区采纳答案，按质量门降为 2 星并附原帖链接）：① 保存失败/无法保存——文件被其他程序占用、只读或权限不足（含 zip 打包时文件仍被 SOLIDWORKS 占用导致压缩包不完整的案例）；② 并发保存冲突报 Only one user can save a new revision at a time（确认真锁定 vs 保存事务超时留下的残锁）；③ Pack and Go 中「将标题用作文件名」选项不显示（根因：文件名与标题相同）；④ 另存为新文件后删除被引用的配置导致保存报错（正确做法是另存为副本）；⑤ 导入 STL 等网格提示 Mesh has topological errors（根因多为导入后尺寸过小导致舍入误差）；⑥ 钣金件在强制重建（Ctrl+Q）过程中短暂消失（添加「钣金边界框属性」传感器可规避）。共 106 条。同时修复检索侧一个缺陷：被相关性硬门槛判零的条目不再以 0 分参与排名（此前全部候选被判零时它会成为 Top1）。"
 }
