@@ -1,11 +1,7 @@
 {
   "pack_id": "SW_TechKnowledge",
-  "version": "2026.22",
-  "url": "https://huida-kb-1503473453.cos.ap-chengdu.myqcloud.com/Huida-Knowledge-v2026.22.pkg",
-  "sha256": "e8fe373f10d65afd7ac940ba5b34788449890ae6271233a1a3e8a3734c09022c",
-  "mirrors": [
-    "https://github.com/chinjeyashe/Solidworks-tech-kb/releases/download/v2026.22/Huida-Knowledge-v2026.22.pkg",
-    "https://cdn.jsdelivr.net/gh/chinjeyashe/Solidworks-tech-kb@main/knowledge/packs/Huida-Knowledge-v2026.22.pkg"
-  ],
-  "notes": "v2026.22：知识包数字签名（导入前验签，防篡改/防更新链路劫持）+ 工单提交切换至安全中继服务（企微机器人 key 不再随包分发）。新增多源分发：国内主源腾讯云 COS，GitHub Releases 与 jsDelivr 作为备用镜像（客户端自动择优/回退，连不上 GitHub 也能更新）。知识内容与 v2026.21 一致（共 100 条）。"
+  "version": "2026.23",
+  "url": "https://huida-kb-1503473453.cos.ap-chengdu.myqcloud.com/Huida-Knowledge-v2026.23.pkg",
+  "sha256": "2c2401cca8b7bf6fec1415cc0616b09624ad4e01c0ab713cce631e58388f8afd",
+  "notes": ""
 }
