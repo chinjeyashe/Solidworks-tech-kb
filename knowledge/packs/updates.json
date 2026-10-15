@@ -1,7 +1,7 @@
 {
   "pack_id": "SW_TechKnowledge",
-  "version": "2026.28",
-  "url": "https://huida-kb-1503473453.cos.ap-chengdu.myqcloud.com/Huida-Knowledge-v2026.28.pkg",
-  "sha256": "ab8a8a91698bbcb2232f3cd0fb1736a2845ac5fc2c11cb6b664abe7ca0d3d866",
-  "notes": "工单提交通道调整（需插件 2.2.113+）：在线提交的工单现在投递到公司支持邮箱 solidworks_support@evget.com——经官方中转服务转发，截图作为邮件附件一并送达，工程师在邮箱里处理和回复，回复邮件即可直接答复工单；中转服务只做转发和限流，不存储内容，提交凭据（SMTP 授权码）只存在于服务端，不在客户端和知识包里。「联系工程师」页文案随之更新。提交方式、附件上限（图片最多 9 张、每张 2MB）、提交失败自动降级为工单文件的行为均不变。条目数与 v2026.27 一致（109 条）。"
+  "version": "2026.29",
+  "url": "https://huida-kb-1503473453.cos.ap-chengdu.myqcloud.com/Huida-Knowledge-v2026.29.pkg",
+  "sha256": "fdb8772533a7dbe9804f57256575510272de7f7f4b491d67b811d8d0e0bbb107",
+  "notes": "「联系工程师」页去掉企业微信二维码，改为直接展示公司支持邮箱 solidworks_support@evget.com 并可一键复制（工单请在插件内「填写支持工单」提交）。知识条目与 v2026.28 一致（109 条），仅联系信息更新，需插件 2.2.114+ 配合界面更新。"
 }
